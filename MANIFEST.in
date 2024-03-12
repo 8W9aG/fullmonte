@@ -1,0 +1,3 @@
+include requirements.txt
+recursive-include fullmonte *.py
+recursive-include fullmonte *.csv
