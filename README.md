@@ -10,8 +10,8 @@ Monte Carlo simulations for extrapolated returns.
 
 Python 3.11.6:
 
-- [numpy 1.26.0](https://numpy.org/)
-- [pandas 2.2.1](https://pandas.pydata.org/)
+- [numpy 1.25.2](https://numpy.org/)
+- [pandas 2.0.3](https://pandas.pydata.org/)
 - [matplotlib 3.8.3](https://matplotlib.org/)
 
 ## Raison D'être :thought_balloon:
